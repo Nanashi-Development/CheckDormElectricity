@@ -1,1 +1,4 @@
-main-pravite.py
+main-private.py
+\.conda
+\.idea
+\.vscode

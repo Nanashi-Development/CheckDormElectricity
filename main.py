@@ -11,14 +11,14 @@ bot = DingtalkChatbot(webhook, secret=secret)
 # Request Post Data
 data_studentRoom = {
                     'openId':'None', 
-                    'wxArea':'10876', 
+                    'wxArea':'', 
                     'areaNo':'', 
                     'buildNo':'', 
                     'roomNo':'',
                     }
 data_airConditionerRoom = {
                     'openId':'None', 
-                    'wxArea':'10876', 
+                    'wxArea':'', 
                     'areaNo':'', 
                     'buildNo':'', 
                     'roomNo':'',
