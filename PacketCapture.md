@@ -24,14 +24,14 @@
 
 如果以上操作无误，您应当看到以下图片中的界面：下方为您的设备和您设备上打开的网页
 到此，你就可以像在电脑浏览器的开发者工具中一样调试该网页
-![open_inspect](attachment\open_inspect.png)
+![open_inspect](attachment/open_inspect.png)
 
 
 # 抓包步骤
 对于本项目而言，您需要对“电费充值”相关的网页进行调试
 
 1.找到“电费充值”网页并点击inspect进入调试
-![enter_inspect](attachment\enter_inspect.png)
+![enter_inspect](attachment/enter_inspect.png)
 
 2.在打开的DevTools页面中找到网络选项卡，并点击重新加载页面
 ![dev_tools](attachment/dev_tools.png)
